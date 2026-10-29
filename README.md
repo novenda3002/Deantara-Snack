@@ -436,7 +436,7 @@
                     <h4 class="text-xs font-bold text-amber-900" id="variant-form-title">Tambah Varian Risol Baru</h4>
                     <div>
                         <label class="block text-xs text-slate-600 mb-1">Nama Varian Risol</label>
-                        <input type="text" id="variant-name" placeholder="misal: Risol Rogout Ayam" required class="w-full px-3 py-1.5 bg-white border border-slate-200 rounded-lg text-xs">
+                        <input type="text" id="variant-name" placeholder="misal: Risol Rogout Telur" required class="w-full px-3 py-1.5 bg-white border border-slate-200 rounded-lg text-xs">
                     </div>
                     <div class="grid grid-cols-3 gap-2">
                         <div>
@@ -445,7 +445,7 @@
                         </div>
                         <div>
                             <label class="block text-xs text-slate-600 mb-1">Stok Awal (Pcs)</label>
-                            <input type="number" id="variant-stock" min="0" placeholder="45" required class="w-full px-3 py-1.5 bg-white border border-slate-200 rounded-lg text-xs">
+                            <input type="number" id="variant-stock" min="0" placeholder="0" required class="w-full px-3 py-1.5 bg-white border border-slate-200 rounded-lg text-xs">
                         </div>
                         <div>
                             <label class="block text-xs text-slate-600 mb-1">Stok Min (Pcs)</label>
