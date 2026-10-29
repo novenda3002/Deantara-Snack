@@ -75,7 +75,7 @@
                 <i class="fa-solid fa-cookie-bite text-lg sm:text-xl"></i>
             </div>
             <div>
-                <p class="text-[11px] sm:text-xs text-slate-500">Pembukuan Keuangan & Stok Opname Risol</p>
+                <p class="text-[11px] sm:text-xs text-slate-500">Pembukuan & Stok Opname</p>
             </div>
         </div>
         
@@ -137,7 +137,7 @@
 
 <!-- Header Saat Dicetak -->
 <div class="print-only p-6 border-b border-slate-300 mb-6">
-    <h1 class="text-2xl font-bold text-slate-900">Laporan Keuangan & Stok Usaha Risol - Deantara Snacks</h1>
+    <h1 class="text-2xl font-bold text-slate-900">Laporan Keuangan & Stok Risol - Deantara Snacks</h1>
     <p class="text-sm text-slate-600" id="print-date">Dicetak pada: -</p>
 </div>
 
@@ -262,7 +262,7 @@
                 <div class="flex items-center justify-between pb-4 mb-4 border-b border-slate-100">
                     <h2 class="text-base font-bold text-slate-900 flex items-center gap-2">
                         <i class="fa-solid fa-square-plus text-amber-600"></i>
-                        <span id="form-title">Tambah Transaksi Kas</span>
+                        <span id="form-title">Transaksi</span>
                     </h2>
                 </div>
 
@@ -412,7 +412,7 @@
         </div>
     </div>
 
-    <!-- TAB 3: STOK RISOL & STOCK OPNAME -->
+    <!-- TAB 3: STOK RISOL -->
     <div id="tab-stock" class="tab-content hidden space-y-6">
         <div class="grid grid-cols-1 lg:grid-cols-12 gap-6">
 
@@ -421,7 +421,7 @@
                 <div class="flex items-center justify-between border-b border-slate-100 pb-3">
                     <div>
                         <h2 class="font-bold text-slate-900 flex items-center gap-2 text-base">
-                            <i class="fa-solid fa-cookie-bite text-amber-600"></i> Daftar Varian Risol & Stok
+                            <i class="fa-solid fa-cookie-bite text-amber-600"></i> Daftar Stok Risol
                         </h2>
                         <p class="text-xs text-slate-500 mt-0.5">Kelola stok, restock produksi harian, dan lakukan stock opname langsung di tiap varian.</p>
                     </div>
@@ -481,7 +481,7 @@
             <section class="lg:col-span-4 bg-white p-6 rounded-2xl border border-amber-100 shadow-sm space-y-4">
                 <div class="border-b border-slate-100 pb-3">
                     <h2 class="font-bold text-slate-900 flex items-center gap-2 text-sm">
-                        <i class="fa-solid fa-clock-rotate-left text-amber-600"></i> Riwayat Penyesuaian / Opname
+                        <i class="fa-solid fa-clock-rotate-left text-amber-600"></i> Riwayat Stock
                     </h2>
                     <p class="text-[11px] text-slate-500 mt-0.5">Catatan fisik, selisih hasil opname, & alasan penyesuaian.</p>
                 </div>
@@ -500,7 +500,7 @@
         <div class="bg-white p-5 rounded-2xl border border-amber-100 shadow-sm flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
             <div>
                 <h2 class="font-bold text-slate-900 text-base flex items-center gap-2">
-                    <i class="fa-solid fa-calendar-days text-amber-600"></i> Laporan Rekapitulasi Keuangan Bulanan
+                    <i class="fa-solid fa-calendar-days text-amber-600"></i> Rekapitulasi Keuangan Bulanan
                 </h2>
                 <p class="text-xs text-slate-500 mt-0.5">Pantau omset murni, biaya operasional, pengurangan modal, dan laba/rugi bersih secara aktual.</p>
             </div>
