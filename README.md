@@ -75,7 +75,6 @@
                 <i class="fa-solid fa-cookie-bite text-lg sm:text-xl"></i>
             </div>
             <div>
-                <h1 class="font-bold text-base sm:text-lg text-slate-900 leading-tight">Deantara Snacks <span class="hidden sm:inline-block text-xs bg-amber-100 text-amber-800 font-semibold px-2 py-0.5 rounded-full border border-amber-200">Spesialis Risol</span></h1>
                 <p class="text-[11px] sm:text-xs text-slate-500">Pembukuan Keuangan & Stok Opname Risol</p>
             </div>
         </div>
